@@ -8,7 +8,7 @@
 
 # 🔍 DVWA Vulnerability Scan using OWASP ZAP
 
-This repository contains the results of a **web application vulnerability assessment** performed on [DVWA (Damn Vulnerable Web Application)](https://github.com/digininja) using the **OWASP ZAP** automated security scanner.
+This repository contains the results of a **web application vulnerability assessment** performed on [DVWA (Damn Vulnerable Web Application)](https://github.com/digininja/DVWA.git) using the **OWASP ZAP** automated security scanner.
 
 ## 📁 Project Structure
 
